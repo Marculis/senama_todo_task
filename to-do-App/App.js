@@ -1,4 +1,4 @@
-import { SafeAreaView, StyleSheet, Text, View, StatusBar } from "react-native";
+import { SafeAreaView, StyleSheet, Text } from "react-native";
 import { TodoContainer } from "./components/todoContainer";
 
 export default function App() {
